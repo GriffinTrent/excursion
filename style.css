@@ -17,6 +17,11 @@ h2{
 	color: white;
 }
 
+h4{
+	font-size: 21px;
+	color: gray;
+}
+
 a{
 	color: aquamarine;
 	font-size: 16px;
@@ -29,4 +34,9 @@ embed{
 
 video{
 	padding-top: 40px;
+}
+
+.footer{
+	text-align: right;
+	color: gray;
 }
